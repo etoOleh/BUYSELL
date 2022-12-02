@@ -1,0 +1,15 @@
+.left-bar div{
+    text-transform: uppercase;
+    font-weight: 600;
+    color: maroon;
+}
+.left-bar{
+    display: flex;
+    align-items: center;
+}
+.left-bar > *{
+    padding: 10px;
+}
+.buy{
+    color: maroon;
+}
